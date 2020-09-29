@@ -38,4 +38,6 @@ Requesisto do Ambiente
 
   - [GET](http://localhost:4001/produtorec/15893/10) - Lista produtos em oferta com indicação de quantidade de registros.
 
-#
+# Conversão do arquivo Json para importação no banco de dados
+
+![Script Conversor](wiki/imagens/ConversorJson-Sql.png)
