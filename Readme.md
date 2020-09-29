@@ -41,3 +41,5 @@ Requesisto do Ambiente
 # Conversão do arquivo Json para importação no banco de dados
 
 ![Script Conversor](wiki/imagens/ConversorJson-Sql.png)
+
+Comando para exportar os dados para extensão CSV: df.to_csv(r'linx.csv')
