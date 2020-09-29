@@ -1,0 +1,17 @@
+{
+  "name": "apiprodutos",
+  "version": "1.0.0",
+  "description": "Consultar produtos no formato compacto e completo",
+  "main": "consultaproduto.js",
+  "scripts": {
+    "start": "nodemon consultaproduto.js"
+  },
+  "keywords": [],
+  "author": "Guilherme Galindo",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mysql2": "^2.2.5"
+  }
+}

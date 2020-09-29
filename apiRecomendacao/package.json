@@ -1,0 +1,17 @@
+{
+  "name": "apirecomendacao",
+  "version": "1.0.0",
+  "description": "Produtos recomendados em promoção",
+  "main": "recomendacao.js",
+  "scripts": {
+    "start": "nodemon recomendacao.js"
+  },
+  "keywords": [],
+  "author": "Guilherme Galindo",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mysql2": "^2.2.5"
+  }
+}
